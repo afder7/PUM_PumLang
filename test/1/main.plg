@@ -1,0 +1,7 @@
+
+{
+    int a, b;
+    input(a);
+    input(b);
+    print(a + b);
+}
