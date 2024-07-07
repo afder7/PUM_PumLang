@@ -1,0 +1,13 @@
+{
+    int f, s;
+    input(f);
+    s := 12;
+    if (f > 1) {
+        s := s / f;
+        f := f - 1;
+    };
+    else {
+        f := 1;
+    };
+    print(s);
+}
