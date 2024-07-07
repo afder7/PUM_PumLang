@@ -1,0 +1,6 @@
+{
+    int n;
+    input(n);
+    print(n);
+
+}
