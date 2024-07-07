@@ -1,0 +1,7 @@
+
+{
+    int v, t;
+    input(v);
+    input(t);
+    print(v * t % 109);
+}
